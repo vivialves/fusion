@@ -6,10 +6,22 @@ __pycache__
 
 .env
 
-.idea
+.idea/*
 
 template/*
 
 htmlcov/*
 
-.vscode
+.vscode/*
+
+fusion/bin/*
+
+fusion/lib/*
+
+fusion/pyvenv.cfg
+
+fusion/settings.py
+
+
+
+
